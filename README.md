@@ -1,13 +1,14 @@
 # Hi there 👋  
-I'm a Program Analyst (Application Developer L1) at Cognizant, building reliable backend systems with **Java**, **Spring Boot**, **RESTful APIs**, and **SQL**. I focus on clean architecture, stable integrations, and scalable backend solutions for enterprise environments.
+I'm a Program Analyst at Cognizant, building reliable backend systems with **Java**, **Spring Boot**, **RESTful APIs**, and **SQL**. I focus on clean architecture, stable integrations, and scalable backend solutions for enterprise environments.
 
 ---
 
 ## 🚀 About Me
-- Backend developer specializing in **Java** and the **Spring ecosystem**  
-- Experienced in designing and delivering **RESTful services** with strong security, validations, and layered architecture  
-- Hands-on experience with blockchain-based applications and enterprise integrations  
-- Focused on production-grade quality, maintainability, and performance
+- Java developer focused on **Spring**, **Spring Boot**, and building reliable, modular backend services  
+- Skilled in designing and implementing **RESTful APIs**, authentication flows, validations, and layered architecture  
+- Experience integrating applications with relational databases using **JPA**, **Hibernate**, and **JDBC**  
+- Capable of building interactive and component-driven UIs using **React** for frontend requirements  
+- Comfortable working with Git-based workflows, production deployment patterns, and API testing with Postman
 
 ---
 
@@ -29,6 +30,7 @@ I'm a Program Analyst (Application Developer L1) at Cognizant, building reliable
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
