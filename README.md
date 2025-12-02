@@ -1,65 +1,79 @@
 # Hi there 👋  
-I'm a Program Analyst at Cognizant, building reliable backend systems with **Java**, **Spring Boot**, and **SQL**.  
-I focus on writing clean, efficient code and creating real-world solutions that solve practical problems.
+I'm a Program Analyst (Application Developer L1) at Cognizant, building reliable backend systems with **Java**, **Spring Boot**, **RESTful APIs**, and **SQL**. I focus on clean architecture, stable integrations, and scalable backend solutions for enterprise environments.
 
 ---
 
 ## 🚀 About Me
-- Backend-focused developer working with **Java, Spring Boot, Maven, JDBC, Oracle/MySQL**  
-- Comfortable building secure, production-ready APIs and full-stack applications  
-- Enjoy turning ideas into functional systems through structured design and clean architecture  
-- Constantly learning — currently growing in **AWS Cloud**, **React**, and **RESTful API development**
+- Backend developer specializing in **Java** and the **Spring ecosystem**  
+- Experienced in designing and delivering **RESTful services** with strong security, validations, and layered architecture  
+- Hands-on experience with blockchain-based applications and enterprise integrations  
+- Focused on production-grade quality, maintainability, and performance
 
 ---
 
-## 🧩 Tech Stack
+## 🚀 Tech Stack
 
-**Backend:**  
-`Java` • `Spring Boot` • `Spring MVC` • `Spring Data JPA` • `JDBC` • `Maven`  
+<p align="left">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful_API-005571.svg?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 
-**Frontend:**  
-`HTML` • `CSS` • `JavaScript` • `Thymeleaf` • `React` (learning)
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-**Database:**  
-`MySQL` • `Oracle SQL`  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
 
-**Tools & Cloud:**  
-`Git` • `GitHub` • `Postman` • `Docker` • `AWS (Learning)`  
-`Ganache` • `MetaMask` • `Truffle` • `IPFS (Kubo)`
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+
+  <!-- Web3 -->
+  <img src="https://img.shields.io/badge/Ganache-FFD700.svg?style=for-the-badge&logo=ethereum&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MetaMask-F6851B.svg?style=for-the-badge&logo=metamask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Truffle-3E2F26.svg?style=for-the-badge&logo=truffle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IPFS-0A1B2A.svg?style=for-the-badge&logo=ipfs&logoColor=white"/>
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 **Blockchain-Based Land Registration System**  
-Decentralized web app using **Solidity, Truffle, Ganache, MetaMask**, and **IPFS** for secure land record verification and transparency.
+### 🔹 Car Rental System  
+[🔗 View Repository](https://github.com/itsmib/Car-Rental-System)  
+A Java-based application for managing car rentals. Automates booking, customer management, and rental transaction tracking — built for reliability and easy maintenance.
 
-### 🔹 **Event Management System (Spring Boot + Oracle SQL)**  
-A full-stack application with **OTP-based password reset**, **email notifications**, **admin event creation**, and **PayPal payment integration**.
+### 🔹 Crime Reporting & Analysis System  
+[🔗 View Repository](https://github.com/itsmib/Crime-Reporting-Analysis-System)  
+A Java-based system designed to facilitate crime reporting and basic analysis. Enables users to report incidents, and provides tools to analyze trends in crime data.
 
-### 🔹 **QuickBracket – Tournament Fixture Generator (Python)**  
-Generates tournament fixtures from a CSV file and exports them as a clean PDF using FPDF.
+### 🔹 Event Management System (Spring Boot + Oracle SQL)  
+[🔗 View Repository](https://github.com/itsmib/event-management-system)  
+Enterprise-grade application with OTP-based password reset, email notifications, event lifecycle management, and payment integration.
 
-### 🔹 **Library Management System (Python)**  
-Simple and efficient system to manage books, users, and transactions.
+### 🔹 FlexBox Playground  
+[🔗 View Repository](https://github.com/itsmib/Flexbox-PlayGround)  
+Interactive resource for experimenting with CSS Flexbox layouts and responsive design patterns.
 
-### 🔹 **FlexBox Playground – Web Design Tool**  
-Interactive UI to understand and visualize CSS Flexbox behaviors.
-
----
-
-## 🧪 Currently Exploring
-- Advanced **Spring Boot** modules  
-- **RESTful API** best practices  
-- **AWS Certification Path**  
-- **React + Spring Boot** full-stack development
+### 🔹 Library Management System  
+[🔗 View Repository](https://github.com/itsmib/Library-Management-System)  
+Python-based library management tool integrating MySQL for book, member, and transaction management.
 
 ---
 
 ## 📫 Connect With Me
-**GitHub:** *You’re already here*  
-**Email:** *add your email here*
+**LinkedIn:** https://www.linkedin.com/in/itsmib/  
+**GitHub:** https://github.com/itsmib  
+**Email:** noorulmisbah15@gmail.com
 
 ---
 
-⭐ _Thanks for visiting my profile! Feel free to explore my repositories._
+⭐ _Thanks for visiting — feel free to explore the repositories and reach out._
