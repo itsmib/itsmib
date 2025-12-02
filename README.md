@@ -1,5 +1,5 @@
 # Hi there 👋  
-I'm a Program Analyst (Application Developer L1) at Cognizant, building reliable backend systems with **Java**, **Spring Boot**, and **SQL**.  
+I'm a Program Analyst at Cognizant, building reliable backend systems with **Java**, **Spring Boot**, and **SQL**.  
 I focus on writing clean, efficient code and creating real-world solutions that solve practical problems.
 
 ---
